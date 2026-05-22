@@ -1,0 +1,545 @@
+{
+  "positions": {
+    "TSLA": {
+      "ticker": "TSLA",
+      "shares": 130,
+      "avg_cost_basis": 463.36,
+      "total_invested": 60236.43,
+      "dividends_received": 0.0,
+      "description": "TSLA 1/31/2025 Call $420.00",
+      "lots_100": 1,
+      "odd_lot": 30
+    },
+    "MSFT": {
+      "ticker": "MSFT",
+      "shares": 25,
+      "avg_cost_basis": 408.27,
+      "total_invested": 10206.63,
+      "dividends_received": 160.03,
+      "description": "Cash Div: R/D 2022-02-17 P/D 2022-03-10 - 3 shares at 0.62",
+      "lots_100": 0,
+      "odd_lot": 25
+    },
+    "AAPL": {
+      "ticker": "AAPL",
+      "shares": 1,
+      "avg_cost_basis": 130.48,
+      "total_invested": 130.48,
+      "dividends_received": 31.92,
+      "description": "Cash Div: R/D 2021-02-08 P/D 2021-02-11 - 55 shares at 0.205",
+      "lots_100": 0,
+      "odd_lot": 1
+    },
+    "META": {
+      "ticker": "META",
+      "shares": 3,
+      "avg_cost_basis": 559.4,
+      "total_invested": 1678.2,
+      "dividends_received": 34.82,
+      "description": "Cash Div: R/D 2024-02-22 P/D 2024-03-26 - 23 shares at 0.5",
+      "lots_100": 0,
+      "odd_lot": 3
+    },
+    "NFLX": {
+      "ticker": "NFLX",
+      "shares": 120,
+      "avg_cost_basis": 87.5,
+      "total_invested": 10499.44,
+      "dividends_received": 0.0,
+      "description": "",
+      "lots_100": 1,
+      "odd_lot": 20
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "shares": 154,
+      "avg_cost_basis": 180.43,
+      "total_invested": 27786.56,
+      "dividends_received": 8.49,
+      "description": "Cash Div: R/D 2024-09-12 P/D 2024-10-03 - 59 shares at 0.01",
+      "lots_100": 1,
+      "odd_lot": 54
+    },
+    "AMZN": {
+      "ticker": "AMZN",
+      "shares": 5,
+      "avg_cost_basis": 184.64,
+      "total_invested": 923.22,
+      "dividends_received": 0.0,
+      "description": "",
+      "lots_100": 0,
+      "odd_lot": 5
+    },
+    "CVS": {
+      "ticker": "CVS",
+      "shares": 31,
+      "avg_cost_basis": 71.07,
+      "total_invested": 2203.21,
+      "dividends_received": 189.55,
+      "description": "Cash Div: R/D 2025-01-23 P/D 2025-02-03 - 281 shares at 0.665",
+      "lots_100": 0,
+      "odd_lot": 31
+    },
+    "DJT": {
+      "ticker": "DJT",
+      "shares": 100,
+      "avg_cost_basis": 25.98,
+      "total_invested": 2598.1,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 1,
+      "odd_lot": 0
+    },
+    "TSM": {
+      "ticker": "TSM",
+      "shares": 1,
+      "avg_cost_basis": 197.69,
+      "total_invested": 197.69,
+      "dividends_received": 3.69,
+      "description": "Cash Div: R/D 2024-12-12 P/D 2025-01-09 - 1 shares at 0.608106",
+      "lots_100": 0,
+      "odd_lot": 1
+    },
+    "AMD": {
+      "ticker": "AMD",
+      "shares": 21,
+      "avg_cost_basis": 156.8,
+      "total_invested": 3292.89,
+      "dividends_received": 0.0,
+      "description": "",
+      "lots_100": 0,
+      "odd_lot": 21
+    },
+    "TGT": {
+      "ticker": "TGT",
+      "shares": 10,
+      "avg_cost_basis": 88.15,
+      "total_invested": 881.5,
+      "dividends_received": 437.1,
+      "description": "Cash Div: R/D 2025-02-12 P/D 2025-03-03 - 45 shares at 1.12",
+      "lots_100": 0,
+      "odd_lot": 10
+    },
+    "INTC": {
+      "ticker": "INTC",
+      "shares": 10,
+      "avg_cost_basis": 22.01,
+      "total_invested": 220.1,
+      "dividends_received": 0.0,
+      "description": "",
+      "lots_100": 0,
+      "odd_lot": 10
+    },
+    "UBER": {
+      "ticker": "UBER",
+      "shares": 5,
+      "avg_cost_basis": 60.11,
+      "total_invested": 300.55,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 0,
+      "odd_lot": 5
+    },
+    "PLTR": {
+      "ticker": "PLTR",
+      "shares": 15,
+      "avg_cost_basis": 81.95,
+      "total_invested": 1229.3,
+      "dividends_received": 0.0,
+      "description": "PLTR 1/31/2025 Call $84.00",
+      "lots_100": 0,
+      "odd_lot": 15
+    },
+    "MNDY": {
+      "ticker": "MNDY",
+      "shares": 25,
+      "avg_cost_basis": 230.78,
+      "total_invested": 5769.61,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 0,
+      "odd_lot": 25
+    },
+    "MDB": {
+      "ticker": "MDB",
+      "shares": 10,
+      "avg_cost_basis": 265.99,
+      "total_invested": 2659.9,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 0,
+      "odd_lot": 10
+    },
+    "ABNB": {
+      "ticker": "ABNB",
+      "shares": 10,
+      "avg_cost_basis": 127.82,
+      "total_invested": 1278.2,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 0,
+      "odd_lot": 10
+    },
+    "RCL": {
+      "ticker": "RCL",
+      "shares": 5,
+      "avg_cost_basis": 351.23,
+      "total_invested": 1756.16,
+      "dividends_received": 10.0,
+      "description": "Stock Lending",
+      "lots_100": 0,
+      "odd_lot": 5
+    },
+    "RDDT": {
+      "ticker": "RDDT",
+      "shares": 225,
+      "avg_cost_basis": 224.11,
+      "total_invested": 50425.37,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 2,
+      "odd_lot": 25
+    },
+    "BMNR": {
+      "ticker": "BMNR",
+      "shares": 500,
+      "avg_cost_basis": 33.89,
+      "total_invested": 16944.81,
+      "dividends_received": 2.0,
+      "description": "BMNR 11/7/2025 Put $42.00",
+      "lots_100": 5,
+      "odd_lot": 0
+    },
+    "TSLL": {
+      "ticker": "TSLL",
+      "shares": 1000,
+      "avg_cost_basis": 16.78,
+      "total_invested": 16780.96,
+      "dividends_received": 289.7,
+      "description": "Stock Lending",
+      "lots_100": 10,
+      "odd_lot": 0
+    },
+    "ACHR": {
+      "ticker": "ACHR",
+      "shares": 500,
+      "avg_cost_basis": 9.21,
+      "total_invested": 4605.97,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 5,
+      "odd_lot": 0
+    },
+    "ALAB": {
+      "ticker": "ALAB",
+      "shares": 20,
+      "avg_cost_basis": 163.4,
+      "total_invested": 3268.08,
+      "dividends_received": 0.0,
+      "description": "ALAB 11/7/2025 Put $170.00",
+      "lots_100": 0,
+      "odd_lot": 20
+    }
+  },
+  "options_income_history": {
+    "TGT": {
+      "total_premium": 45.95,
+      "trades": [
+        {
+          "date": "1/16/2026",
+          "desc": "TGT 1/16/2026 Call $112.00",
+          "premium": 45.95
+        }
+      ]
+    },
+    "RDDT": {
+      "total_premium": 1052.8700000000001,
+      "trades": [
+        {
+          "date": "1/13/2026",
+          "desc": "RDDT 1/16/2026 Call $255.00",
+          "premium": 359.95
+        },
+        {
+          "date": "1/5/2026",
+          "desc": "RDDT 1/9/2026 Call $252.50",
+          "premium": 529.95
+        },
+        {
+          "date": "12/3/2025",
+          "desc": "RDDT 12/5/2025 Call $235.00",
+          "premium": 162.97
+        }
+      ]
+    },
+    "ALAB": {
+      "total_premium": 1529.8,
+      "trades": [
+        {
+          "date": "1/13/2026",
+          "desc": "ALAB 1/16/2026 Call $180.00",
+          "premium": 364.95
+        },
+        {
+          "date": "1/5/2026",
+          "desc": "ALAB 1/9/2026 Call $190.00",
+          "premium": 319.95
+        },
+        {
+          "date": "11/12/2025",
+          "desc": "ALAB 11/14/2025 Call $180.00",
+          "premium": 134.95
+        },
+        {
+          "date": "11/4/2025",
+          "desc": "ALAB 11/7/2025 Put $170.00",
+          "premium": 709.95
+        }
+      ]
+    },
+    "TSLA": {
+      "total_premium": 6342.3499999999985,
+      "trades": [
+        {
+          "date": "1/2/2026",
+          "desc": "TSLA 1/2/2026 Put $442.50",
+          "premium": 251.97
+        },
+        {
+          "date": "12/11/2025",
+          "desc": "TSLA 12/12/2025 Put $432.50",
+          "premium": 122.97
+        },
+        {
+          "date": "12/2/2025",
+          "desc": "TSLA 12/5/2025 Call $442.50",
+          "premium": 205.97
+        },
+        {
+          "date": "11/12/2025",
+          "desc": "TSLA 11/14/2025 Call $457.50",
+          "premium": 257.95
+        },
+        {
+          "date": "11/3/2025",
+          "desc": "TSLA 11/7/2025 Call $475.00",
+          "premium": 1109.95
+        },
+        {
+          "date": "10/28/2025",
+          "desc": "TSLA 10/31/2025 Call $467.50",
+          "premium": 879.95
+        },
+        {
+          "date": "10/20/2025",
+          "desc": "TSLA 10/24/2025 Call $465.00",
+          "premium": 869.95
+        },
+        {
+          "date": "10/16/2025",
+          "desc": "TSLA 10/17/2025 Call $465.00",
+          "premium": 22.95
+        },
+        {
+          "date": "10/6/2025",
+          "desc": "TSLA 10/10/2025 Call $465.00",
+          "premium": 784.95
+        },
+        {
+          "date": "9/29/2025",
+          "desc": "TSLA 10/3/2025 Call $465.00",
+          "premium": 619.95
+        },
+        {
+          "date": "9/23/2025",
+          "desc": "TSLA 9/26/2025 Call $455.00",
+          "premium": 514.95
+        },
+        {
+          "date": "9/18/2025",
+          "desc": "TSLA 9/19/2025 Call $440.00",
+          "premium": 349.95
+        },
+        {
+          "date": "8/27/2025",
+          "desc": "TSLA 8/29/2025 Call $362.50",
+          "premium": 215.95
+        },
+        {
+          "date": "1/30/2025",
+          "desc": "TSLA 1/31/2025 Call $420.00",
+          "premium": 134.94
+        }
+      ]
+    },
+    "BMNR": {
+      "total_premium": 180.9,
+      "trades": [
+        {
+          "date": "11/6/2025",
+          "desc": "BMNR 11/7/2025 Put $37.50",
+          "premium": 54.95
+        },
+        {
+          "date": "11/3/2025",
+          "desc": "BMNR 11/7/2025 Put $42.00",
+          "premium": 125.95
+        }
+      ]
+    },
+    "NVDA": {
+      "total_premium": 597.78,
+      "trades": [
+        {
+          "date": "11/3/2025",
+          "desc": "NVDA 11/7/2025 Put $200.00",
+          "premium": 136.95
+        },
+        {
+          "date": "10/28/2025",
+          "desc": "NVDA 10/31/2025 Call $200.00",
+          "premium": 267.95
+        },
+        {
+          "date": "2/4/2025",
+          "desc": "NVDA 2/7/2025 Call $125.00",
+          "premium": 116.94
+        },
+        {
+          "date": "1/21/2025",
+          "desc": "NVDA 1/24/2025 Call $145.00",
+          "premium": 75.94
+        }
+      ]
+    },
+    "DDOG": {
+      "total_premium": 209.95,
+      "trades": [
+        {
+          "date": "10/28/2025",
+          "desc": "DDOG 10/31/2025 Call $162.50",
+          "premium": 209.95
+        }
+      ]
+    },
+    "PLTR": {
+      "total_premium": 26.94,
+      "trades": [
+        {
+          "date": "1/30/2025",
+          "desc": "PLTR 1/31/2025 Call $84.00",
+          "premium": 26.94
+        }
+      ]
+    }
+  },
+  "estimated_cash_balance": 4157.96,
+  "tickers_held": [
+    "AAPL",
+    "ABNB",
+    "ACHR",
+    "ALAB",
+    "AMD",
+    "AMZN",
+    "BMNR",
+    "CVS",
+    "DJT",
+    "INTC",
+    "MDB",
+    "META",
+    "MNDY",
+    "MSFT",
+    "NFLX",
+    "NVDA",
+    "PLTR",
+    "RCL",
+    "RDDT",
+    "TGT",
+    "TSLA",
+    "TSLL",
+    "TSM",
+    "UBER"
+  ],
+  "positions_with_100_lots": {
+    "TSLA": {
+      "ticker": "TSLA",
+      "shares": 130,
+      "avg_cost_basis": 463.36,
+      "total_invested": 60236.43,
+      "dividends_received": 0.0,
+      "description": "TSLA 1/31/2025 Call $420.00",
+      "lots_100": 1,
+      "odd_lot": 30
+    },
+    "NFLX": {
+      "ticker": "NFLX",
+      "shares": 120,
+      "avg_cost_basis": 87.5,
+      "total_invested": 10499.44,
+      "dividends_received": 0.0,
+      "description": "",
+      "lots_100": 1,
+      "odd_lot": 20
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "shares": 154,
+      "avg_cost_basis": 180.43,
+      "total_invested": 27786.56,
+      "dividends_received": 8.49,
+      "description": "Cash Div: R/D 2024-09-12 P/D 2024-10-03 - 59 shares at 0.01",
+      "lots_100": 1,
+      "odd_lot": 54
+    },
+    "DJT": {
+      "ticker": "DJT",
+      "shares": 100,
+      "avg_cost_basis": 25.98,
+      "total_invested": 2598.1,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 1,
+      "odd_lot": 0
+    },
+    "RDDT": {
+      "ticker": "RDDT",
+      "shares": 225,
+      "avg_cost_basis": 224.11,
+      "total_invested": 50425.37,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 2,
+      "odd_lot": 25
+    },
+    "BMNR": {
+      "ticker": "BMNR",
+      "shares": 500,
+      "avg_cost_basis": 33.89,
+      "total_invested": 16944.81,
+      "dividends_received": 2.0,
+      "description": "BMNR 11/7/2025 Put $42.00",
+      "lots_100": 5,
+      "odd_lot": 0
+    },
+    "TSLL": {
+      "ticker": "TSLL",
+      "shares": 1000,
+      "avg_cost_basis": 16.78,
+      "total_invested": 16780.96,
+      "dividends_received": 289.7,
+      "description": "Stock Lending",
+      "lots_100": 10,
+      "odd_lot": 0
+    },
+    "ACHR": {
+      "ticker": "ACHR",
+      "shares": 500,
+      "avg_cost_basis": 9.21,
+      "total_invested": 4605.97,
+      "dividends_received": 0.0,
+      "description": "Stock Lending",
+      "lots_100": 5,
+      "odd_lot": 0
+    }
+  }
+}

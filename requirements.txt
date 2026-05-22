@@ -1,0 +1,7 @@
+# Orchestrator protocol
+httpx>=0.27.0
+websockets>=13.0
+
+# Market data & analysis
+numpy>=1.24.0
+yfinance>=0.2.40
